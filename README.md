@@ -17,6 +17,8 @@ http://chris.cnie.de/netzwerk/fritzbox.html
 
 http://fritz.box:49000/x_voipSCPD.xml
 
+https://avm.de/service/schnittstellen/
+
 https://avm.de/fileadmin/user_upload/Global/Service/Schnittstellen/AVM_TR-064_first_steps.pdf
 
 ## Einrichtung CUxD-Aktor zur Scriptausführung
